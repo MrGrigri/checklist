@@ -81,7 +81,7 @@
     "access": "public"
   },
   "storybook": {
-    "displayName": "Addon Kit",
+    "displayName": "Design Checklist",
     "supportedFrameworks": [
       "react",
       "vue",
